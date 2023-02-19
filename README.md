@@ -1,2 +1,5 @@
 # alert-method
-Alert method syntax
+
+alert("Hello world!");
+// Or, alternatively...
+window.alert("Hello world!");
